@@ -30,4 +30,9 @@ header a:hover{
     margin-left: 550px;
     margin-bottom: 50px;
  }
+a{
+   float: right;
+   margin-top: 10px;
+   margin-right: 140px;
+ }
  
